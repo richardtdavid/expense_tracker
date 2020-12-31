@@ -1,0 +1,9 @@
+#root, body, html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5) ), url(./assets/1fc4d334-2cd9-4a7b-9948-e93f4fa94815.png);
+    background-size: cover;
+}
